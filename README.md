@@ -1,2 +1,3 @@
 # kishkush
-shtuyot
+shtuyot bemitz agvaniot
+
